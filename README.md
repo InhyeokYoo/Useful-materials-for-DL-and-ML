@@ -1,14 +1,17 @@
-# Useful materials for Deep Learning and Machine Learning
+# 📚 Useful materials for Deep Learning and Machine Learning
 
-딥러닝/머신러닝 material 자료입니다. 즐겨찾기로 저장하는 것도 귀찮고, 다른 분들과 많이 공유하기 위해 본 repo를 작성하게 되었습니다. 최대한 한국어로 된 자료를 담으려고 노력했으나 다들 아시다시피 많지는 않습니다. 한국어로 된 자료는 한국어로 썼고, 추천하는 자료는 볼드로 표시했습니다. 
+딥러닝/머신러닝 자료 정리 repo입니다. 즐겨찾기로 저장하는 것도 귀찮고, 다른 분들과 많이 공유하기 위해 본 repo를 작성하게 되었습니다. 최대한 한국어로 된 자료를 담으려고 노력했으나 다들 아시다시피 많지는 않습니다. 한국어로 된 자료는 한국어로 썼고, 추천하는 자료는 볼드로 표시했습니다.
+
+크게 material과 article이 있는데, material은 책, 강의 등의 자료이고, article은 한 번 읽어보면 좋을 자료들입니다.
 
 # Programming
 
 ## Python
 
-- [Material] [*중급파이썬: 파이썬 팁들*](https://ddanggle.gitbooks.io/interpy-kr/content/)
-    - pythonic한 코드를 만드는 방법. 엄청 어렵지는 않음. 필요한 것만 쏙쏙 봐도 됨.
-- 
+- 📚 Materials
+    - [중급파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
+        - pythonic한 코드를 만드는 방법. 엄청 어렵지는 않으므로 초보를 벗어났다 싶을 때 필요한 것만 쏙쏙 봐도 될 것 같음
+- 📑 Articles
 
 ## Coding test
 
