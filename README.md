@@ -26,7 +26,7 @@
 
 
 ## etc
-- 📚 Material: **기술 면접 대비 Tech Interview [(link)]https://github.com/WeareSoft/tech-interview)**
+- 📚 Material: **기술 면접 대비 Tech Interview** [(link)]https://github.com/WeareSoft/tech-interview)
     - 면접에 자주 나오는 질문과 그에 대한 답변 목록. 면접보기전에 봐야 함
 - 📚 Material: regexone [(link)](https://regexone.com/)
     - 정규표현식 예제 문제
@@ -34,7 +34,6 @@
     - 정규표현식 메커니즘을 가시적으로 볼 수 있는 사이트
 
 # Linear Algebra & Statistics
-
 - 📚 Material: Gilbert strang 교수 강의 정리 [(link)](https://twlab.tistory.com/17)
     - 잘 모르는거 생길 때 와서 리뷰하면 좋음
 - 📚 Material: 모두를 위한 컨벡스 최적화 [(link)](https://wikidocs.net/17202)
@@ -43,10 +42,9 @@
     - 수학 잘 모르는 사람은 어려운거 나오면 이거 보면서 정리하면 됨
 
 # Machine Learning
-
 - 📚 Material: **PRML** [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
     - 그 유명한 비숍책. 바이블이라 볼 수 있음.
-- 📚 Material: **PRML 정리글 [(link)](http://norman3.github.io/prml/?fbclid=IwAR2Rv0O_LG67Oa3rzJ9KnguRs9LiXuSYdfCSu60DzG0qxlpX6I4w61sHack)**
+- 📚 Material: **PRML 정리글** [(link)](http://norman3.github.io/prml/?fbclid=IwAR2Rv0O_LG67Oa3rzJ9KnguRs9LiXuSYdfCSu60DzG0qxlpX6I4w61sHack)
     - 정리는 잘 되어있는데, 업데이트가 잘 안됨
 - 📚 Material: Machine Learning: a Probabilistic Perspective [(link)](https://www.cs.ubc.ca/~murphyk/MLbook/)
     - PRML과 양대산맥인 머피의 machine learning 책. 학부생이 좀 더 보기 편하고, generative model에 대해 잘 소개함
@@ -55,10 +53,22 @@
 - 📚 Material: Introduction to statistical learning [(link)](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
     - 마찬가지로 통계학 관점에서의 책. 그러나 ESL보다 더 쉽다
 
+| 📚 Material | link | 설명 |
+| --- | --- | --- |
+| **PRML** | [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | 그 유명한 비숍책. 바이블이라 볼 수 있음 |
+| **PRML 정리글** | [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | 정리는 잘 되어있는데, 업데이트가 잘 안됨 |
+| **Machine Learning: a Probabilistic Perspective** | [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | PRML과 양대산맥인 머피의 machine learning 책. 학부생이 좀 더 보기 편하고, generative model에 대해 잘 소개함 |
+| The Elements of Statistical Learning | [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | 통계학 측면에서의 machine learning. 좀 어려움 |
+| The Elements of Statistical Learning | [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | 마찬가지로 통계학 관점에서의 책. 그러나 ESL보다 더 쉽다 |
+
 # Deep learning
-- 📑 Articles: Variational Inference 설명 [(link)](https://hyeongminlee.github.io/post/bnn003_vi/)
-- 📚 Material: Papers with code [(link)](https://paperswithcode.com/method)
-    - paper와 코드, 그리고 terminology 정리까지 잘 되어 있음. 논문 읽다 잘 모르는거 나오면 일단 여기서 찾으면 됨
+- 📚 Material
+    - Papers with code [(link)](https://paperswithcode.com/method)
+        - paper와 코드, 그리고 terminology 정리까지 잘 되어 있음. 논문 읽다 잘 모르는거 나오면 일단 여기서 찾으면 됨
+- Backpropagation
+    - d
+- Generative model
+- 📑 Articles: Variational Inference 설명 [(link)](https://hyeongminlee.github.io/post/bnn003_vi/) 
 
 
 ## NLP
@@ -83,4 +93,5 @@
     - 마찬가지로 torchtext material
 - 📚 Material: **CS224n** [(link)](https://web.stanford.edu/class/cs224n/)
     - 대가 Manning 교수의 강의. 직접 봐도 되고, 아니면 내가 스터디한 [레포](https://github.com/InhyeokYoo/CS224N)봐도 됨 😉
-- 
+
+## torch
