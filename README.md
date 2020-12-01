@@ -4,9 +4,9 @@
 
 크게 material과 article이 있는데, material은 책, 강의 등의 자료이고, article은 한 번 읽어보면 좋을 자료들입니다.
 
-# Programming
+# 👨‍💻 Programming
 - 📚 Material: **리팩토링** [(link)](http://www.yes24.com/Product/Goods/267290)
-    - 코드를 짜는데 어떻게 클래스를 나누고 함수를 짜야될지 고민이 된다? 이 책을 볼 때가 된거임
+    - 코드를 짜는데 어떻게 클래스를 나누고 함수를 짜야될지 고민이 된다? 이 책을 볼 때가 된거
 
 ## Python
 - 📚 Material: 중급파이썬: 파이썬 팁들 [(link)](https://ddanggle.gitbooks.io/interpy-kr/content/)
@@ -33,7 +33,7 @@
 - 📚 Material: regexper [(link)](https://regexper.com/#%5C.)
     - 정규표현식 메커니즘을 가시적으로 볼 수 있는 사이트
 
-# Linear Algebra & Statistics
+# 🧮 Linear Algebra & Statistics
 - 📚 Material: Gilbert strang 교수 강의 정리 [(link)](https://twlab.tistory.com/17)
     - 잘 모르는거 생길 때 와서 리뷰하면 좋음
 - 📚 Material: 모두를 위한 컨벡스 최적화 [(link)](https://wikidocs.net/17202)
@@ -41,13 +41,13 @@
 - 📚 Material: **공돌이의 수학정리 노트** [(link)](https://angeloyeo.github.io/)
     - 수학 잘 모르는 사람은 어려운거 나오면 이거 보면서 정리하면 됨
 
-# Machine Learning
-- 📚 Material: **PRML** [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+# 📗 Machine Learning
+- 📚 Material: **Pattern Recognition and Machine Learning** [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
     - 그 유명한 비숍책. 바이블이라 볼 수 있음.
-- 📚 Material: **PRML 정리글** [(link)](http://norman3.github.io/prml/?fbclid=IwAR2Rv0O_LG67Oa3rzJ9KnguRs9LiXuSYdfCSu60DzG0qxlpX6I4w61sHack)
-    - 정리는 잘 되어있는데, 업데이트가 잘 안됨
+- 📚 Material: **Pattern Recognition and Machine Learning 정리글** [(link)](http://norman3.github.io/prml/?fbclid=IwAR2Rv0O_LG67Oa3rzJ9KnguRs9LiXuSYdfCSu60DzG0qxlpX6I4w61sHack)
+    - 정리는 잘 되어있는데, 중간중간이 비어있음
 - 📚 Material: Machine Learning: a Probabilistic Perspective [(link)](https://www.cs.ubc.ca/~murphyk/MLbook/)
-    - PRML과 양대산맥인 머피의 machine learning 책. 학부생이 좀 더 보기 편하고, generative model에 대해 잘 소개함
+    - PRML과 양대산맥인 머피의 machine learning 책. 학부생이 좀 더 보기 편하고, generative model에 대해 PRML보다 더 자세하게 설명하고 있음
 - 📚 Material: The Elements of Statistical Learning [(link)](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
     - 통계학 측면에서의 machine learning. 좀 어려움
 - 📚 Material: Introduction to statistical learning [(link)](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
@@ -65,10 +65,13 @@
 - 📚 Material
     - Papers with code [(link)](https://paperswithcode.com/method)
         - paper와 코드, 그리고 terminology 정리까지 잘 되어 있음. 논문 읽다 잘 모르는거 나오면 일단 여기서 찾으면 됨
+    - Deep Learning Book [(link)](https://www.deeplearningbook.org/)
+        - 이안 굿펠로와 요슈아 벤지오, 아론 쿠르빌의 바이블. 이름이 깔끔해서 오해하기 쉽지만 꽤나 어려움. 번역판은 질이 좋지 않음. 잘 찾아보면 pdf판 구할 수 있음
 - Backpropagation
-    - d
+    - Backpropagation Through Time for Recurrent Neural Network [(link)](https://mmuratarat.github.io/2019-02-07/bptt-of-rnn)
+    - The Softmax function and its derivative [(link)](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/)
 - Generative model
-- 📑 Articles: Variational Inference 설명 [(link)](https://hyeongminlee.github.io/post/bnn003_vi/) 
+- 📑 Articles: Variational Inference 설명 [(link)](https://hyeongminlee.github.io/post/bnn003_vi/)
 
 
 ## NLP
@@ -85,13 +88,20 @@
     - NLP 기초적인 모델들 파이토치/텐서플로로 구현한 레포
 - 📚 Material: Deep-Generative-Models-for-Natural-Language-Processing [(link)](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing#Textbooks-and-Phd-Thesis)
     - Deep generative model 로드맵
+- 📚 Material: **CS224n** [(link)](https://web.stanford.edu/class/cs224n/)
+    - 대가 Manning 교수의 강의. 직접 봐도 되고, 아니면 내가 스터디한 [레포](https://github.com/InhyeokYoo/CS224N)봐도 됨 😉
+- 📑 Articles: GPT-1
+    - Paper [(link)](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+    - GPT(Generative Pre-Training) 구현하기 [(link)](https://paul-hyun.github.io/gpt-01/)
+    - GPT 구현 repo [(link)](https://github.com/lyeoni/gpt-pytorch)
+    - Huggungface 구현 [(link)](https://github.com/huggingface/pytorch-openai-transformer-lm/blob/master/model_pytorch.py)
+
+# torch
+
+## torchtext
 - 📑 Articles: A Tutorial on Torchtext [(link)](http://anie.me/On-Torchtext/)
     - 2017년에 작성됐긴 하지만, torchtext가 어떻게 작동하는지 감은 익힐 수 있음
 - 📑 Articles: TorchText Tutorials [(link)](https://github.com/simonjisu/pytorch_tutorials/blob/master/00_Basic_Utils/01_TorchText.ipynb)
     - 마찬가지로 토치텍스트 관련된 코랩 노트북
 - 📑 Articles: A Comprehensive Introduction to Torchtext [(link)](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/)
     - 마찬가지로 torchtext material
-- 📚 Material: **CS224n** [(link)](https://web.stanford.edu/class/cs224n/)
-    - 대가 Manning 교수의 강의. 직접 봐도 되고, 아니면 내가 스터디한 [레포](https://github.com/InhyeokYoo/CS224N)봐도 됨 😉
-
-## torch
