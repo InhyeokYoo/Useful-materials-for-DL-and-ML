@@ -77,6 +77,9 @@
 ## NLP
 - 📚 Material: 딥 러닝을 이용한 자연어 처리 입문 [(link)](https://wikidocs.net/book/2155)
     - 막 큰 도움은 안 되지만 커리큘럼이 있다는것 자체가 좋음. 잘 모르면 이거 따라가면 될듯
+- 📚 Material: Huggingface Awesome NLP Paper Discussions [(link)](https://github.com/huggingface/awesome-papers)
+- 한국어 데이터 셋 모음 [(link)](https://github.com/songys/AwesomeKorean_Data)
+- Huggingface 데이터 셋 [(link)](https://huggingface.co/nlp/viewer/?dataset=snli)
 - 📑 Articles: Modern Deep Learning Techniques Applied to Natural Language Processing [(link)](https://nlpoverview.com/)
     - 딥러닝 최신 글들에 대한 리뷰 및 정리 같은거 간단하게 되어 있음. 마지막 업데이트가 2020년 3월 25일임
 - 📑 Articles: Generalized Language Models [(link)](Generalized Language Models)
