@@ -99,6 +99,12 @@
     - GPT 구현 repo [(link)](https://github.com/lyeoni/gpt-pytorch)
     - Huggungface 구현 [(link)](https://github.com/huggingface/pytorch-openai-transformer-lm/blob/master/model_pytorch.py)
 
+# CV
+
+- 📚 Material: [Feature Detection and Description](https://docs.opencv.org/master/db/d27/tutorial_py_table_of_contents_feature2d.html)
+    - feature detection과 description에 대해 설명하고 있음.
+
+
 # torch
 
 ## torchtext
