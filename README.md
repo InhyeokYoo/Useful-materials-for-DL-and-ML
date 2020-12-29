@@ -7,7 +7,6 @@
 | Emoji | 설명 |
 | :--- | :--- |
 | 📚: Book | 책 |
-| 📒: Series | 데이터 셋 |
 | 👨‍🏫: Course | 강의 |
 | 📑: Article | 단발성의, 읽어보면 좋을 듯한 자료를 의미. article은 특정 주제에 따라 분리해놨음 |
 | 🗃️: Dataset | 데이터 셋 |
@@ -54,11 +53,13 @@
 # 🤖 Machine Learning
 | 📚 Materials | link | 설명 |
 | :--- | :--- | :--- |
-| **PRML** | 📚 [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | 비숍책. 바이블임 |
+| **PRML** | 📚 [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | 비숍책. 바이블 |
 | **PRML 정리글** | 📚 [(link)](http://norman3.github.io/prml/?fbclid=IwAR2Rv0O_LG67Oa3rzJ9KnguRs9LiXuSYdfCSu60DzG0qxlpX6I4w61sHack) | PRML 한국어 정리글. 정리는 잘 되어있는데, 업데이트가 잘 안됨 |
-| **Machine Learning: a Probabilistic Perspective** | 📚 [(link)](https://www.cs.ubc.ca/~murphyk/MLbook/) | 머피책. 학부생이 좀 더 보기 편하고, generative model에 대해 잘 소개함 |
+| **Machine Learning: a Probabilistic Perspective** | 📚 [(link)](https://www.cs.ubc.ca/~murphyk/MLbook/) | 머피책. 바이블. 학부생이 좀 더 보기 편하고, generative model에 대해 잘 소개함 |
 | The Elements of Statistical Learning | 📚 [(link)](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | 통계학 측면에서의 machine learning. 좀 어렵다 |
 | Introduction to statistical learning | 📚 [(link)](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) | 마찬가지로 통계학 관점에서의 책. 그러나 ESL보다 더 쉽다 |
+| awesome-RecSys | 📚 [(link)](https://github.com/jihoo-kim/awesome-RecSys?fbclid=IwAR3V7QJXxXKzrW0EXcp4kwPcgKQtCUcHGrnY9K_ANQ1iPkkmWGTcLQzEFVo) | 추천시스템 관련 material 모음집 |
+| CS229 | 👨‍🏫 [(link)](https://www.easyupclass.com/course/56/about) | 앤드류 응의 CS229 한글자막.
 
 | 📑 Articles | link | 설명 |
 | :--- | :--- | :--- |
