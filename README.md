@@ -52,6 +52,9 @@
 | Papers with code | 🗃️ [(link)](https://paperswithcode.com/method) | paper와 코드가 정리되어 있음. 처음보는 모델이 나올 땐 논문 통채로 읽지말고 일단 여기서 찾아보자 |
 | Deep Learning Book | 📚 [(link)](https://www.deeplearningbook.org/) | 저자만 봐도 지림. 이름이 깔끔해서 오해하기 쉽지만 꽤나 어려움. 번역판은 질이 좋지 않음. 잘 찾아보면 pdf판 구할 수 있음 |
 | Papers You Must Read | 📚 [(link)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd) | 고대 DSBA 연구실에서 작성한 논문 목록 |
+| DEEP LEARNING NYU 강의 | 📚 [(link)]https://atcold.github.io/pytorch-Deep-Learning/ | 뉴욕대 딥러닝 강의. 얀르쿤이 함 |
+
+
 
 # 5. NLP
 
