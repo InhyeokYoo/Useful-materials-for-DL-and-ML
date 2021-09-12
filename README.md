@@ -52,7 +52,7 @@
 | Papers with code | 🗃️ [(link)](https://paperswithcode.com/method) | paper와 코드가 정리되어 있음. 처음보는 모델이 나올 땐 논문 통채로 읽지말고 일단 여기서 찾아보자 |
 | Deep Learning Book | 📚 [(link)](https://www.deeplearningbook.org/) | 저자만 봐도 지림. 이름이 깔끔해서 오해하기 쉽지만 꽤나 어려움. 번역판은 질이 좋지 않음. 잘 찾아보면 pdf판 구할 수 있음 |
 | Papers You Must Read | 📚 [(link)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd) | 고대 DSBA 연구실에서 작성한 논문 목록 |
-| DEEP LEARNING NYU 강의 | 📚 [(link)]https://atcold.github.io/pytorch-Deep-Learning/ | 뉴욕대 딥러닝 강의. 얀르쿤이 함 |
+| DEEP LEARNING NYU 강의 | 📚 [(link)](https://atcold.github.io/pytorch-Deep-Learning/) | 뉴욕대 딥러닝 강의. 얀르쿤이 함 |
 
 
 
@@ -88,17 +88,6 @@
 | 📑 Generative model | link | 설명 |
 | :--- | :--- | :--- |
 | Variational Inference | 📑 [(link)](https://hyeongminlee.github.io/post/bnn003_vi/) | VAE 설명 |
-
-| 📑 Backpropagations | link | 설명 |
-| :--- | :--- | :--- |
-| Backpropagation Through Time for Recurrent Neural Network| 📑 [(link)](https://mmuratarat.github.io/2019-02-07/bptt-of-rnn) | BPTT에 대한 설명과 수식 이해 |
-| The Softmax function and its derivative | 📑 [(link)](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/) | 소프트맥스와 이의 derivative 설명 |
-
-- 📑 Articles: GPT-1
-    - Paper [(link)](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-    - GPT(Generative Pre-Training) 구현하기 [(link)](https://paul-hyun.github.io/gpt-01/)
-    - GPT 구현 repo [(link)](https://github.com/lyeoni/gpt-pytorch)
-    - Huggungface 구현 [(link)](https://github.com/huggingface/pytorch-openai-transformer-lm/blob/master/model_pytorch.py)
 
 **CV**
 
