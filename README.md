@@ -31,6 +31,7 @@
 | Gilbert strang 교수 강의 정리 | 🗃️ [(link)](https://twlab.tistory.com/17) | 잘 모르는거 생길 때 와서 리뷰하면 좋음 |
 | 모두를 위한 컨벡스 최적화 | 🗃️ [(link)](https://wikidocs.net/17202) | 모두의 연구소에서 진행한 스터디 |
 | **공돌이의 수학정리 노트** | 🗃️ [(link)](https://angeloyeo.github.io/) | 수학 잘 모르는 사람은 어려운거 나오면 이거 보면서 정리하면 됨 |
+| **ASDF 오터의 통계** | 📺 [(link)](https://www.youtube.com/channel/UCgqqOZRUcnSJHDOPHhIQCwg) | 수식없이 설명해주는 통계 |
 
 
 # 3. 🤖 Machine Learning
@@ -43,6 +44,10 @@
 | Introduction to statistical learning | 📚 [(link)](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) | 마찬가지로 통계학 관점에서의 책. 그러나 ESL보다 더 쉽다 |
 | awesome-RecSys | 🗃️ [(link)](https://github.com/jihoo-kim/awesome-RecSys?fbclid=IwAR3V7QJXxXKzrW0EXcp4kwPcgKQtCUcHGrnY9K_ANQ1iPkkmWGTcLQzEFVo) | 추천시스템 관련 material 모음집 |
 | CS229 | 👨‍🏫 [(link)](https://www.easyupclass.com/course/56/about) | 앤드류 응의 CS229 한글자막 |
+
+| 📑 Generative model | link | 설명 |
+| :--- | :--- | :--- |
+| Variational Inference | 📑 [(link)](https://hyeongminlee.github.io/post/bnn003_vi/) | VAE 설명 |
 
 
 # 4. 🕸️ Deep learning
@@ -76,29 +81,29 @@
 | Deep-Generative-Models-for-Natural-Language-Processing | 🗃️ [(link)](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing#Textbooks-and-Phd-Thesis) | Deep generative model 로드맵 |
 | nlp-tutorial | 🗃️ [(link)](https://github.com/graykode/nlp-tutorial/blob/master/README.md) | NLP 기초적인 모델들 파이토치/텐서플로로 구현한 레포 |
 
-
-
-# 기타 미정리
-
-| 📑 Backpropagations | link | 설명 |
-| :--- | :--- | :--- |
-| Backpropagation Through Time for Recurrent Neural Network| 📑 [(link)](https://mmuratarat.github.io/2019-02-07/bptt-of-rnn) | BPTT에 대한 설명과 수식 이해 |
-| The Softmax function and its derivative | 📑 [(link)](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/) | 소프트맥스와 이의 derivative 설명 |
-
-| 📑 Generative model | link | 설명 |
-| :--- | :--- | :--- |
-| Variational Inference | 📑 [(link)](https://hyeongminlee.github.io/post/bnn003_vi/) | VAE 설명 |
-
-**CV**
+# 6. Vision
 
 - 📑 Articles: 이미지에서 CNN을 쓰는 이유 [(link)](https://medium.com/@seoilgun/cnn%EC%9D%98-stationarity%EC%99%80-locality-610166700979)
 - 📚 Material: [Feature Detection and Description](https://docs.opencv.org/master/db/d27/tutorial_py_table_of_contents_feature2d.html)
     - feature detection과 description에 대해 설명하고 있음.
 
-**torchtext**
-- 📑 Articles: A Tutorial on Torchtext [(link)](http://anie.me/On-Torchtext/)
-    - 2017년에 작성됐긴 하지만, torchtext가 어떻게 작동하는지 감은 익힐 수 있음
-- 📑 Articles: TorchText Tutorials [(link)](https://github.com/simonjisu/pytorch_tutorials/blob/master/00_Basic_Utils/01_TorchText.ipynb)
-    - 마찬가지로 토치텍스트 관련된 코랩 노트북
-- 📑 Articles: A Comprehensive Introduction to Torchtext [(link)](https://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/)
-    - 마찬가지로 torchtext material
+# Step by Step
+
+| Data | link | 설명 |
+| :--- | :--- | :--- |
+
+| Training | link | 설명 |
+| :--- | :--- | :--- |
+| Backpropagation Through Time for Recurrent Neural Network| 📑 [(link)](https://mmuratarat.github.io/2019-02-07/bptt-of-rnn) | BPTT에 대한 설명과 수식 이해 |
+| The Softmax function and its derivative | 📑 [(link)](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/) | 소프트맥스와 이의 derivative 설명 |
+
+| Hyperparamter tuning | link | 설명 |
+| :--- | :--- | :--- |
+| hyperparamter optimization | 📑 [(link)](https://m.blog.naver.com/laonple/220576650094) | 하이퍼 파라미터 최적화 방법 |
+| Learning rate Decay의 종류 | 📑 [(link)](https://velog.io/@good159897/Learning-rate-Decay%EC%9D%98-%EC%A2%85%EB%A5%98) | Learning rate Decay 종류 살펴보기 |
+| Pytorch Learning Rate Scheduler (러닝 레이트 스케쥴러) 정리 | 📑 [(link)](https://gaussian37.github.io/dl-pytorch-lr_scheduler/) | PyTorch learning rate scheduler 설명 |
+| A CLOSER LOOK AT DEEP LEARNING HEURISTICS: LEARNING RATE RESTARTS, WARMUP AND DISTILLATION | 📑 [(link)](https://openreview.net/pdf?id=r14EOsCqKX) |  |
+| Quick Tutorial: Using Bayesian optimization to tune your hyperparameters in PyTorch | 📑 [(link)](https://towardsdatascience.com/quick-tutorial-using-bayesian-optimization-to-tune-your-hyperparameters-in-pytorch-e9f74fc133c2) | Ax 사용하여 bayesian search하기 |
+| Hyperparameter tuning with Ray Tune | 📑 [(link)](https://pytorch.org/tutorials/beginner/hyperparameter_tuning_tutorial.html#full-training-function) | `ray tune` 이용하여 hyperparameter search하기 |
+
+
