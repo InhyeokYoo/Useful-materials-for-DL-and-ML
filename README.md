@@ -60,7 +60,6 @@
 | DEEP LEARNING NYU 강의 | 📚 [(link)](https://atcold.github.io/pytorch-Deep-Learning/) | 뉴욕대 딥러닝 강의. 얀르쿤이 함 |
 
 
-
 # 5. NLP
 
 | 📚 Materials | link | 설명 |
@@ -80,6 +79,14 @@
 | Kakao: 2018-2020 NLU 연구 동향을 소개합니다 | 🗃️ [(link)](https://kakaobrain.com/blog/118) | 카카오에서 소개하는 NLU 연구 동향 |
 | Deep-Generative-Models-for-Natural-Language-Processing | 🗃️ [(link)](https://github.com/FranxYao/Deep-Generative-Models-for-Natural-Language-Processing#Textbooks-and-Phd-Thesis) | Deep generative model 로드맵 |
 | nlp-tutorial | 🗃️ [(link)](https://github.com/graykode/nlp-tutorial/blob/master/README.md) | NLP 기초적인 모델들 파이토치/텐서플로로 구현한 레포 |
+
+## NMT
+
+| 📚 Materials | link | 설명 |
+| :--- | :--- | :--- |
+| Back-Translation Review | 📑 [(link)](https://kh-kim.github.io/blog/2020/09/30/Back-Translation-Review.html) | 김기현씨 블로그 |
+| Back Translation 정리: 번역기 성능 영혼까지 끌어모으기 | 📑 [(link)](https://dev-sngwn.github.io/2020-01-07-back-translation/) | 깔끔한 Back-translation 설명 |
+
 
 # 6. Vision
 
