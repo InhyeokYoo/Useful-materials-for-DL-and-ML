@@ -82,10 +82,18 @@
 
 ## NMT
 
-| 📚 Materials | link | 설명 |
+| 📑 Articles | link | 설명 |
 | :--- | :--- | :--- |
 | Back-Translation Review | 📑 [(link)](https://kh-kim.github.io/blog/2020/09/30/Back-Translation-Review.html) | 김기현씨 블로그 |
 | Back Translation 정리: 번역기 성능 영혼까지 끌어모으기 | 📑 [(link)](https://dev-sngwn.github.io/2020-01-07-back-translation/) | 깔끔한 Back-translation 설명 |
+
+## PLM
+
+| 📑 Articles | link | 설명 |
+| :--- | :--- | :--- |
+| 한국어 언어모델: Korean Pre-trained Language Models | 📑 [(link)](https://littlefoxdiary.tistory.com/81) | 한국어 PLM 정리 |
+
+
 
 
 # 6. Vision
