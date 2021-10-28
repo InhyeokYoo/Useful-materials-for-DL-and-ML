@@ -107,18 +107,26 @@
 | Data | link | 설명 |
 | :--- | :--- | :--- |
 
-| Training | link | 설명 |
+| Network | link | 설명 |
+| :--- | :--- | :--- |
+
+| Optimizing | link | 설명 |
 | :--- | :--- | :--- |
 | Backpropagation Through Time for Recurrent Neural Network| 📑 [(link)](https://mmuratarat.github.io/2019-02-07/bptt-of-rnn) | BPTT에 대한 설명과 수식 이해 |
 | The Softmax function and its derivative | 📑 [(link)](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/) | 소프트맥스와 이의 derivative 설명 |
+| Learning rate Decay의 종류 | 📑 [(link)](https://velog.io/@good159897/Learning-rate-Decay%EC%9D%98-%EC%A2%85%EB%A5%98) | Learning rate Decay 종류 살펴보기 |
+| Pytorch Learning Rate Scheduler (러닝 레이트 스케쥴러) 정리 | 📑 [(link)](https://gaussian37.github.io/dl-pytorch-lr_scheduler/) | PyTorch learning rate scheduler 설명 |
+| In deep learning, why don't we use the whole training set to compute the gradient? | 📑 [(link)](https://qr.ae/pGVzqk) | Ian Goodfellow가 답변 |
 
 | Hyperparamter tuning | link | 설명 |
 | :--- | :--- | :--- |
 | hyperparamter optimization | 📑 [(link)](https://m.blog.naver.com/laonple/220576650094) | 하이퍼 파라미터 최적화 방법 |
-| Learning rate Decay의 종류 | 📑 [(link)](https://velog.io/@good159897/Learning-rate-Decay%EC%9D%98-%EC%A2%85%EB%A5%98) | Learning rate Decay 종류 살펴보기 |
-| Pytorch Learning Rate Scheduler (러닝 레이트 스케쥴러) 정리 | 📑 [(link)](https://gaussian37.github.io/dl-pytorch-lr_scheduler/) | PyTorch learning rate scheduler 설명 |
 | A CLOSER LOOK AT DEEP LEARNING HEURISTICS: LEARNING RATE RESTARTS, WARMUP AND DISTILLATION | 📑 [(link)](https://openreview.net/pdf?id=r14EOsCqKX) |  |
 | Quick Tutorial: Using Bayesian optimization to tune your hyperparameters in PyTorch | 📑 [(link)](https://towardsdatascience.com/quick-tutorial-using-bayesian-optimization-to-tune-your-hyperparameters-in-pytorch-e9f74fc133c2) | Ax 사용하여 bayesian search하기 |
 | Hyperparameter tuning with Ray Tune | 📑 [(link)](https://pytorch.org/tutorials/beginner/hyperparameter_tuning_tutorial.html#full-training-function) | `ray tune` 이용하여 hyperparameter search하기 |
+
+| Training | link | 설명 |
+| :--- | :--- | :--- |
+| 머신러닝 실험을 도와줄 Python Sacred 소개 | 📑 [(link)](https://zzsza.github.io/mlops/2019/07/21/python-sacred/) | 실험에 대한 configuration과 organization, logging, reproducing을 도와주는 library 소개 |
 
 
