@@ -39,7 +39,7 @@
 | :--- | :--- | :--- |
 | **PRML** | 📚 [(link)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | 비숍책. 바이블 |
 | **PRML 정리글** | 🗃️ [(link)](http://norman3.github.io/prml/?fbclid=IwAR2Rv0O_LG67Oa3rzJ9KnguRs9LiXuSYdfCSu60DzG0qxlpX6I4w61sHack) | PRML 한국어 정리글. 정리는 잘 되어있는데, 업데이트가 잘 안됨 |
-| **Machine Learning: a Probabilistic Perspective** | 📚 [(link)](https://www.cs.ubc.ca/~murphyk/MLbook/) | 머피책. 바이블. 학부생이 좀 더 보기 편하고, generative model에 대해 잘 소개함 |
+| **Probabilistic Machine Learning: An Introduction** | 📚 [(link)](file:///C:/Users/Inhyeok.Yoo/Downloads/pml2.pdf) | 통칭 머피책. PRML에 이은 바이블. 학부생이 좀 더 보기 편하고, generative model에 대해 잘 소개함. 기존의 Machine Learning: a Probabilistic Perspective가 개정되어 Transformer 등의 최신 내용이 추가됨. |
 | The Elements of Statistical Learning | 📚 [(link)](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) | 통계학 측면에서의 machine learning. 좀 어렵다 |
 | Introduction to statistical learning | 📚 [(link)](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) | 마찬가지로 통계학 관점에서의 책. 그러나 ESL보다 더 쉽다 |
 | awesome-RecSys | 🗃️ [(link)](https://github.com/jihoo-kim/awesome-RecSys?fbclid=IwAR3V7QJXxXKzrW0EXcp4kwPcgKQtCUcHGrnY9K_ANQ1iPkkmWGTcLQzEFVo) | 추천시스템 관련 material 모음집 |
