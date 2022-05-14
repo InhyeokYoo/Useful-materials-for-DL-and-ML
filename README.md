@@ -54,6 +54,8 @@
 
 | 📚 Materials | link | 설명 |
 | :--- | :--- | :--- |
+|  **Deep Learning Drizzle**    | 📚 [(link)](https://deep-learning-drizzle.github.io/?fbclid=IwAR3L0N7fuqmkgvm-Fw6deVCPmNG6nE3v2z4e9cvcvvMtE3yhkpKGvnmnzu0) | 딥러닝 관련 강의 모음. 다양한 강의들이 있으니 여기서 찾아 보는 것도 좋을듯. |
+|  **딥러닝 고급과정 강의 모음**    | 📚 [(link)](https://blog.naver.com/PostView.nhn?blogId=orpybab&logNo=222218677249) | 딥러닝 관련 고급 강의 모음. |
 | Papers with code | 🗃️ [(link)](https://paperswithcode.com/method) | paper와 코드가 정리되어 있음. 처음보는 모델이 나올 땐 논문 통채로 읽지말고 일단 여기서 찾아보자 |
 | Deep Learning Book | 📚 [(link)](https://www.deeplearningbook.org/) | 저자만 봐도 지림. 이름이 깔끔해서 오해하기 쉽지만 꽤나 어려움. 번역판은 질이 좋지 않음. 잘 찾아보면 pdf판 구할 수 있음 |
 | Papers You Must Read | 📚 [(link)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd) | 고대 DSBA 연구실에서 작성한 논문 목록 |
